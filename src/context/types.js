@@ -1,0 +1,5 @@
+export const GET_STUDENTS='GET_STUDENTS';
+export const FILTER_STUDENTS = 'FILTER_STUDENTS'
+export const SET_TAGS = 'SET_TAGS'
+export const FILTER_TAGS = 'FILTER_TAGS'
+export const CLEAR_FILTER = 'CLEAR_FILTER'
